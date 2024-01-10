@@ -3,7 +3,6 @@
   <h3>
     Hello World!
   </h3>
-    <br>
   <h5>
     My tech stack:
   </h5>

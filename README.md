@@ -5,7 +5,6 @@
   </h3>
     <br>    
     <br>
-    <br>
   <h5>
     My tech stack:
   </h5>

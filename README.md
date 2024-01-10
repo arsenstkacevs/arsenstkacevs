@@ -10,5 +10,3 @@
     <img src="https://skillicons.dev/icons?i=js,css,html,ts,nodejs,mongodb,aws" />
   </a>
 </div>
-
-[![Arsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsenstkacevs)](https://github.com/anuraghazra/github-readme-stats)

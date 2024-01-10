@@ -1,8 +1,12 @@
 
 <div align="center">
-  <h5>
-    Hello World! 
+  <h3>
+    Hello World!
+  </h3>
+    <br>    
     <br>
+    <br>
+  <h5>
     My tech stack:
   </h5>
   <a href="https://skillicons.dev">
